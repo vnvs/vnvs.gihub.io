@@ -1,0 +1,9 @@
+- key: linkedin
+  slug: in
+  label: LinkedIn
+  url: https://www.linkedin.com/in/vitor-neves-01b8447b/
+
+- key: github
+  slug: gh
+  label: GitHub
+  url: https://github.com/vnvs

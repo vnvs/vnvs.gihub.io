@@ -1,0 +1,8 @@
+---
+layout: default
+---
+<ul>
+  {% for link in site.data.links %}
+    <li><a href="/{{ link.slug | escape }}/" rel="me">{{ link.label | escape }}</a></li>
+  {% endfor %}
+</ul>
