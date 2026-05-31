@@ -1,4 +1,4 @@
-# vnvs.gihub.io
+# vnvs.github.io
 
 Small Jekyll site for personal links.
 
